@@ -27,7 +27,7 @@ class Pdf extends Component
     /**
      * Blank default mode
      */
-    const MODE_BLANK = '';
+    const MODE_BLANK = 'ee';
     /**
      * Core fonts mode
      */
