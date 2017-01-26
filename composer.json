@@ -20,6 +20,13 @@
             "homepage": "http://www.krajee.com/"
         }
     ],
+    "repositories":
+    [
+        {
+            "type": "vcs",
+            "url": "https://github.com/condesignpoland/mpdf.git"
+        }
+    ],
     "require": {
         "mpdf/mpdf": "<7.0"
     },
